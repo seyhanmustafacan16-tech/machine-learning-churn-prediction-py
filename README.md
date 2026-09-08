@@ -53,3 +53,7 @@ Follow these steps to run the project in your own environment:
 3. Run the Python file via the terminal or your preferred IDE (e.g., VS Code):
    ```bash
    python churn_prediction.py
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
